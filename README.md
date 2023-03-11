@@ -1,9 +1,6 @@
 # Hey, I'm Connor!
 
 <h1 align="center">
-    <a name="logo">
-        <img src = "https://cdn.pixabay.com/photo/2017/03/18/09/54/goat-2153622_1280.jpg">
-    </a>
     <br>
     Welcome to my profile
 </h1>
